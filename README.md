@@ -11,5 +11,5 @@ More info about different configurations in the previous version (MOBI2.0) is av
 Note that some of the options have changed (e.g. O_npzd is now O_mobi). This document will be updated shortly.
 ## Getting Started
 To run a version you need to copy the data directory into the run directory.
-'''cp -pr data mobi_o2_n_fe_si_ca_caco3_c13_n15_c14/.'''
+You will also need to change the path to the base code at the top of the mk.in file.
 
