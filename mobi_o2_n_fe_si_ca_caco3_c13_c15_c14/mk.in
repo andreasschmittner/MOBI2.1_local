@@ -1,6 +1,6 @@
 # Add version directory for use
 # for Uvic_ESCM 2.9 version reference run
-
+#test for github
 Version_Directory = /home/aschmitt/models/UVic2.9/git_test/myfork/UVic2.9
 
 # comment out unwanted options or directories with "#"
